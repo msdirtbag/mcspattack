@@ -9892,7 +9892,12 @@
 			"color": "",
 			"comment": "",
 			"enabled": true,
-			"metadata": [],
+			"metadata": [
+				{
+					"name": "products",
+					"value": "Defender for Endpoint, Defender for Identity, Entra"
+				}
+			],
 			"links": [],
 			"showSubtechniques": false
 		},
@@ -9903,9 +9908,14 @@
 			"color": "",
 			"comment": "",
 			"enabled": true,
-			"metadata": [],
+			"metadata": [
+				{
+					"name": "products",
+					"value": "Defender for Endpoint, Defender for Identity, Entra"
+				}
+			],
 			"links": [],
-			"showSubtechniques": false
+			"showSubtechniques": true
 		},
 		{
 			"techniqueID": "T1134.002",
